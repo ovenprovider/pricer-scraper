@@ -1,4 +1,4 @@
-# price-scraper
+# supermarket-products-scraper
 Uses the Woolies and Coles APIs for fetching
 
 Woolies requires certain headers and cookies for future requets, so we first initiate a request to the Woolies homepage where we store the cookies and data, before we fetch a product.
